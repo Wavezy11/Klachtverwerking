@@ -1,0 +1,5 @@
+vendor
+.env
+info.log
+test.php
+composer.lock
